@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu GitHub!
+# Bem-vindo(a) ao meu GitHub! 👋
 
 Sou Herik Sarmento, um entusiasta da Engenharia da Computação de 21 anos, atualmente cursando o 10º período. Este espaço é onde compartilho alguns dos projetos e trabalhos que tenho desenvolvido ao longo do meu percurso acadêmico e profissional.
 
